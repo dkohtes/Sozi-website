@@ -2,6 +2,7 @@ Title: Unterstützen
 Slug: 50-contribute
 Lang: en
 Author: Guillaume Savaton, Daniel Kohtes
+Translation: true
 
 Auch ohne Programmierkenntnisse gibt es verschiedene Möglichkeiten, die Entwicklung von Soli zu unterstützen:
 
